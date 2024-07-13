@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#dog-image-container img {
+  width: 200px;
+  margin: 10px;
+}
+
+#dog-breeds li {
+  cursor: pointer;
+}
